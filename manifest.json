@@ -40,7 +40,7 @@
     },
     "gear-builder": {
       "category": "analysis",
-      "image": "flywheel/ants-segmentation:0.2.0"
+      "image": "flywheel/ants-segmentation:0.2.5"
     },
     "kcl-app-binary": "app/main.sh",
     "kcl-app-modalities": [
@@ -110,5 +110,5 @@
   "name": "ants-segmentation",
   "source": "https://github.com/Nialljb/fw-ants-segmentation",
   "url": "https://github.com/Nialljb/fw-ants-segmentation",
-  "version": "0.2.0"
+  "version": "0.2.5"
 }

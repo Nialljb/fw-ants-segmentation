@@ -30,9 +30,9 @@ def main(context: GearToolkitContext) -> None:
     # Execute the command
     exec_command(command, shell=True, cont_output=True)
 
-    # Add demographic data to the output
-    print("concatenating demographics...")
-    get_demo(context)
+    # # Add demographic data to the output
+    # print("concatenating demographics...")
+    # get_demo(context)
 
 # Only execute if file is run as main, not when imported by another module
 if __name__ == "__main__":  # pragma: no cover
